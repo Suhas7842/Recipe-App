@@ -4,7 +4,7 @@ Welcome to the Recipe App! This application allows users to view, add, and manag
 
 ## Architecture
 <p align="center">
-  <img src="" alt="Arcitecture"/>
+  <img src="https://github.com/Suhas7842/Recipe-App/assets/95905505/8302d69c-6db0-4fe9-bda7-556be3862b42" alt="Arcitecture"/>
 </p>
 
 ## Features
